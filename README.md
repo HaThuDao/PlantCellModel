@@ -1,3 +1,3 @@
 # PlantCellModel
 
-Plant Cell Model using only objects around the house
+Built a plant cell model using only objects around the house in Nov 2011.
